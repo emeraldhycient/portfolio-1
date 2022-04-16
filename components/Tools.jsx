@@ -40,7 +40,7 @@ function Tools() {
             <i className="si si-phpmyadmin si--color text-6xl mb-6"></i>
             <i className="si si-sqlite si--color text-6xl mb-6"></i>
             <i className="si si-android si--color text-6xl mb-6"></i>
-            <i className="si si-ios si--color bg-white rounded text-center text-6xl mb-6"></i>
+            <i className="si si-apple si--color bg-white  rounded text-center text-5xl mb-6"></i>
             <i className="si si-nodedotjs si--color text-6xl mb-6"></i>
             <i className="si si-chartdotjs si--color text-6xl mb-6"></i>
             <i className="si si-git si--color text-6xl mb-6"></i>
