@@ -3,7 +3,7 @@ import React from "react";
 function Tools() {
   return (
     <section className="h-full pb-6 mt-20 md:mt-12 bg-slate-900">
-      <div className="w-screen md:w-11/12 mx-auto">
+      <div className=" md:w-11/12 mx-auto">
         <div className="flex justify-center items-center">
           <h1 className="text-5xl font-extrabold text-white tracking-wide leading-tight mt-20 mb-12 ">
             Tools.

@@ -30,19 +30,44 @@ function Herosection() {
           </Typed>
 
           <div className="text-right flex items-center mt-4">
-            <a href="" className="text-slate-900 text-lg mx-2">
+            <a
+              href="https://github.com/emeraldhycient"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-900 text-lg mx-2"
+            >
               <BsGithub size={25} />
             </a>
-            <a href="" className="text-slate-900 text-lg mx-2">
+            <a
+              href="https://wa.me/+2347088639675"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-900 text-lg mx-2"
+            >
               <IoLogoWhatsapp size={25} className="text-green-500" />
             </a>
-            <a href="" className="text-slate-900 text-lg mx-2">
+            <a
+              href="https://twitter.com/emeraldhycient"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-900 text-lg mx-2"
+            >
               <BsTwitter size={25} className="text-blue-500" />
             </a>
-            <a href="" className="text-slate-900 text-lg mx-2">
+            <a
+              href="https://www.linkedin.com/in/igweze-hycient-411115235/"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-900 text-lg mx-2"
+            >
               <AiFillLinkedin size={25} className="text-blue-600" />
             </a>
-            <a href="" className="text-slate-900 text-lg mx-2 ">
+            <a
+              href="mailto:igwezehycient86@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+              className="text-slate-900 text-lg mx-2 "
+            >
               <MdMarkEmailUnread size={25} className="text-red-500" />
             </a>
           </div>
