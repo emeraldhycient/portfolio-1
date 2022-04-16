@@ -2,7 +2,7 @@ import React from "react";
 
 function Tools() {
   return (
-    <section className="h-screen w-full bg-slate-900">
+    <section className="h-full pb-6 w-full bg-slate-900">
       <div className="mt-20 md:mt-12 items-center">
         <div className="w-11/12 mx-auto">
           <div className="w-full flex justify-center items-center">
@@ -16,7 +16,7 @@ function Tools() {
             <i className="si si-sass si--color text-6xl mb-6"></i>
             <i className="si si-javascript si--color text-6xl mb-6"></i>
             <i className="si si-react si--color text-6xl mb-6"></i>
-            <i className="si si-typescript si--color text-6xl mb-6"></i>
+            <i className="si si-vite si--color text-6xl mb-6"></i>
             <i className="si si-tailwindcss si--color text-6xl mb-6"></i>
             <i className="si si-materialui si--color text-6xl mb-6"></i>
             <i className="si si-bootstrap si--color text-6xl mb-6"></i>
@@ -37,6 +37,9 @@ function Tools() {
             <i className="si si-yarn si--color text-6xl mb-6"></i>
             <i className="si si-babel si--color text-6xl mb-6"></i>
             <i className="si si-webpack si--color text-6xl mb-6"></i>
+            <i className="si si-laravel si--color text-6xl mb-6"></i>
+            <i className="si si-php si--color text-6xl mb-6"></i>
+            <i className="si si-nodedotjs si--color text-6xl mb-6"></i>
             <i className="si si-chartdotjs si--color text-6xl mb-6"></i>
             <i className="si si-git si--color text-6xl mb-6"></i>
             <i className="si si-github text-white text-6xl mb-6"></i>

@@ -11,8 +11,8 @@ function Navbar() {
           Igweze Hycient
         </a>
         <ul
-          id="nav-mobile"
-          className="flex w-1/4 justify-between items-center text-base font-semibold"
+          id=""
+          className=" w-1/4 justify-between items-center text-base font-semibold hidden md:flex"
         >
           <li>
             <a href="sass.html">About</a>
