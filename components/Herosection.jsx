@@ -11,7 +11,7 @@ function Herosection() {
   return (
     <section className="h-full  w-11/12 mx-auto">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mt-20 md:mt-12 items-center">
-        <div className="md:w-11/12 mx-auto">
+        <div className=" md:w-11/12 mx-auto">
           <h1 className="text-5xl font-extrabold text-slate-900 tracking-wide leading-tight mt-6 md:mt-0 mb-6 md:mb-0">
             Web Developer,Mobile Developer And Tech Enthusiast.
           </h1>
@@ -46,19 +46,13 @@ function Herosection() {
               <MdMarkEmailUnread size={25} className="text-red-500" />
             </a>
           </div>
-
-          <button className="border-[.2rem] border-slate-900 px-2 py-1 rounded hidden">
-            <a href="#">Get In Touch</a>
-            Hi, I am Igweze Hycient and i am Technology Agnostic, I learn
-            whatever is needed to get the job done ✅ and I am a passionate
-            developer.
-          </button>
         </div>
         <div className="w-full">
           <Image
             src="/assets/marginalia-programming.gif"
             width={700}
             height={500}
+            unoptimized={true}
             className="rounded-full"
             alt="marginalia-programming gif"
           />
