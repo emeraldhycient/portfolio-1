@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <nav className="w-11/12 mx-auto">
+    <nav className="w-11/12 mx-auto sticky top-0 h-fit backdrop-blur">
       <div className="flex justify-between items-center">
         <a
           href="#"
@@ -10,7 +10,7 @@ function Navbar() {
         </a>
         <ul
           id=""
-          className=" w-1/4 justify-between items-center text-base font-semibold hidden md:flex"
+          className=" w-1/4 justify-between items-center text-base font-semibold hidden md:flex z-100"
         >
           <li>
             <a href="sass.html">About</a>

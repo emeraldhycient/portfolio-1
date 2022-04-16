@@ -78,7 +78,7 @@ function Herosection() {
             width={700}
             height={500}
             unoptimized={true}
-            className="rounded-full"
+            className="rounded-full -z-50"
             alt="marginalia-programming gif"
           />
         </div>
