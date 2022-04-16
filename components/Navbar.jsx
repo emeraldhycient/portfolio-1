@@ -4,7 +4,7 @@ function Navbar() {
       <div className="flex justify-between items-center">
         <a
           href="#"
-          className={` font-curly text-5xl text-slate-900 font-extrabold border-b-[.2rem] border-purple-500 ${styles.navbar}`}
+          className="font-curly text-5xl text-slate-900 font-extrabold border-b-[.2rem] border-purple-500"
         >
           Igweze Hycient
         </a>
