@@ -9,7 +9,7 @@ import "react-typed/dist/animatedCursor.css";
 
 function Herosection() {
   return (
-    <section className="h-[70Vh] w-11/12 mx-auto">
+    <section className="h-full  w-11/12 mx-auto">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mt-20 md:mt-12 items-center">
         <div className="md:w-11/12 mx-auto">
           <h1 className="text-5xl font-extrabold text-slate-900 tracking-wide leading-tight mt-6 md:mt-0 mb-6 md:mb-0">
