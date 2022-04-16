@@ -47,7 +47,7 @@ function Herosection() {
             </a>
           </div>
         </div>
-        <div className="w-full">
+        <div className="w-full mt-10 md:mt-0">
           <Image
             src="/assets/marginalia-programming.gif"
             width={700}
