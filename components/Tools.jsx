@@ -2,8 +2,8 @@ import React from "react";
 
 function Tools() {
   return (
-    <section className="h-full w-full pb-6 mt-20 md:mt-12 bg-slate-900 mx-5 md:mx-0">
-      <div className=" md:w-11/12 mx-auto px-6">
+    <section className="h-full w-full pb-6 mt-20 md:mt-12 bg-slate-900">
+      <div className="w-11/12 mx-auto">
         <div className="flex justify-center items-center">
           <h1 className="text-5xl font-extrabold text-white tracking-wide leading-tight mt-20 mb-12 ">
             Tools.

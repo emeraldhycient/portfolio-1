@@ -11,7 +11,7 @@ function Herosection() {
   return (
     <section className="h-full  w-11/12 mx-auto">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mt-20 md:mt-12 items-center">
-        <div className=" md:w-11/12 mx-auto">
+        <div className="">
           <h1 className="text-5xl font-extrabold text-slate-900 tracking-wide leading-tight mt-6 md:mt-0 mb-6 md:mb-0">
             Web Developer,Mobile Developer And Tech Enthusiast.
           </h1>
@@ -72,7 +72,7 @@ function Herosection() {
             </a>
           </div>
         </div>
-        <div className="w-full mt-10 md:mt-0">
+        <div className=" mt-10 md:mt-0">
           <Image
             src="/assets/marginalia-programming.gif"
             width={700}
