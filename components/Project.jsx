@@ -20,7 +20,7 @@ function Project({ data }) {
         className="rounded-lg"
       ></div>
       <div className="flex flex-col justify-center items-center px-4">
-        <h1 className="text-2xl font-semibold text-white tracking-wide leading-tight mt-6 mb-6 ">
+        <h1 className="text-2xl font-semibold text-white tracking-wide leading-tight mt-2 mb-6 ">
           {title}
         </h1>
         <p className="text-gray-50 text-center">{description}</p>
@@ -49,8 +49,6 @@ function Project({ data }) {
             <BiLinkExternal size={25} className="text-white" />
           </a>
         </div>
-        <p>{url}</p>
-        <p>{github}</p>
       </div>
     </section>
   );
