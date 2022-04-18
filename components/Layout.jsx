@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Footer from "./footer";
 import Navbar from "./Navbar";
 
 function Layout(props) {
@@ -23,6 +24,7 @@ function Layout(props) {
       </Head>
       <Navbar />
       <main>{props.children}</main>
+      <Footer />
     </section>
   );
 }
