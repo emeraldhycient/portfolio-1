@@ -7,7 +7,7 @@ function Project({ data }) {
   const { image, title, description, url, github, tools } = data;
 
   return (
-    <section className="bg-slate-900 rounded-lg">
+    <section className="bg-slate-900 rounded-lg pb-2">
       <div
         style={{
           height: 400,
