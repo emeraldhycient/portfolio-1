@@ -12,7 +12,7 @@ export default function Home() {
       description:
         "made this website to showcase what possible designs could be done nextjs and laravel ",
       github: "https://github.com/emeraldhycient/decor",
-      url: "https://mpdesign.com",
+      url: "https://mpdesign.org",
       tools: ["react", "next js", "tailwind css", "laravel", "sanctum", "❤️"],
     },
     {
