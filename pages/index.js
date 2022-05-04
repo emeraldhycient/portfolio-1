@@ -8,7 +8,7 @@ export default function Home() {
   const [projects, setprojects] = useState([
     {
       image: "/assets/decor-full.png",
-      title: "website for people who love decorating",
+      title: "Interior decoration",
       description:
         "made this website to showcase what possible designs could be done nextjs and laravel ",
       github: "https://github.com/emeraldhycient/decor",
