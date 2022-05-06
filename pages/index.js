@@ -7,6 +7,25 @@ import Tools from "../components/Tools";
 export default function Home() {
   const [projects, setprojects] = useState([
     {
+      image: "/assets/myhospital.PNG",
+      title: "Hospital booking app",
+      description:
+        "simple mobile app to book Hospital visit ahead of time,actually app screenshot seen above",
+      github: "https://github.com/emeraldhycient/myhospital",
+      url: "https://myhospital1.herokuapp.com/api/",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "node js",
+        "express",
+        "react-native-maps",
+        "mongoose",
+        "mongodb",
+        "❤️",
+      ],
+    },
+    {
       image: "/assets/decor-full.png",
       title: "Interior decoration",
       description:
