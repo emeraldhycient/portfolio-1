@@ -12,7 +12,7 @@ export default function Home() {
       description:
         "simple mobile app to book Hospital visit ahead of time,actually app screenshot seen above",
       github: "https://github.com/emeraldhycient/myhospital",
-      url: "https://myhospital1.herokuapp.com/api/",
+      url: "https://appsenjoy.com/Q6fAo",
       tools: [
         "react",
         "react native",
