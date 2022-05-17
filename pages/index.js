@@ -19,7 +19,7 @@ export default function Home() {
         "tailwind css",
         "node js",
         "express",
-        "react-native-maps",
+        "jest",
         "mongoose",
         "mongodb",
         "❤️",
