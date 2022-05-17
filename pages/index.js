@@ -7,6 +7,25 @@ import Tools from "../components/Tools";
 export default function Home() {
   const [projects, setprojects] = useState([
     {
+      image: "/assets/todo.jpg",
+      title: "Generic todo app",
+      description:
+        "very simple generic todo app made in react native , create,edit,update,delete",
+      github: "https://github.com/emeraldhycient/stashbox-front",
+      url: "https://appsenjoy.com/hGpy7",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "node js",
+        "express",
+        "react-native-maps",
+        "mongoose",
+        "mongodb",
+        "❤️",
+      ],
+    },
+    {
       image: "/assets/myhospital.PNG",
       title: "Hospital booking app",
       description:
