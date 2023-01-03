@@ -7,6 +7,74 @@ import Tools from "../components/Tools";
 export default function Home() {
   const [projects, setprojects] = useState([
     {
+      image: "/assets/vision-saving-agent.jpg",
+      title: "Vision savings agent app",
+      description:
+        "soley designed, built and managed the agent part of the agency app for vision savings ng",
+      github: "https://github.com/emeraldhycient",
+      url: "https://play.google.com/store/apps/details?id=ng.visionsavings",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "react-native-paper",
+        "❤️",
+      ],
+    },
+    {
+      image: "/assets/vision_savings.jpg",
+      title: "Vision savings customer app",
+      description:
+        "Worked in Collaboration with chigozie to pull off the customer agency app for vision savings ng",
+      github: "https://github.com/emeraldhycient",
+      url: "https://play.google.com/store/apps/details?id=ng.visionsavings.user",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "react-native-paper",
+        "❤️",
+      ],
+    },
+    {
+      image: "/assets/pluralcode.png",
+      title: "Plural code Academy",
+      description:
+        "builds and maintains pluralcode academy website that converts over 1k student monthly",
+      github: "https://github.com/emeraldhycient",
+      url: "https://pluralcode.institute/",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "node js",
+        "express",
+        "jest",
+        "mongoose",
+        "mongodb",
+        "❤️",
+      ],
+    },
+    {
+      image: "/assets/pluralcode_dashboard.png",
+      title: "Plural code Academy lms",
+      description:
+        "built and maintains pluralcode academy LMS that supports all enrolled students and mentors",
+      github: "https://github.com/emeraldhycient",
+      url: "https://student.pluralcode.institute/login",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "node js",
+        "express",
+        "jest",
+        "mongoose",
+        "mongodb",
+        "❤️",
+      ],
+    },
+    {
       image: "/assets/todo.jpg",
       title: "Generic todo app",
       description:
@@ -25,6 +93,7 @@ export default function Home() {
         "❤️",
       ],
     },
+
     {
       image: "/assets/myhospital.PNG",
       title: "Hospital booking app",
@@ -77,47 +146,47 @@ export default function Home() {
         "❤️",
       ],
     },
-    {
-      image: "/assets/sportapp.jpeg",
-      title: "fitness coach app",
-      description:
-        "Designed to be sleek and intuitive for sport coaches and fitness cautious individuals",
-      github: "https://github.com/emeraldhycient/Gofitish",
-      url: "https://igwezehycient.netlify.app",
-      tools: [
-        "react",
-        "react native",
-        "react native paper",
-        "algora",
-        "laravel",
-        "❤️",
-      ],
-    },
-    {
-      image: "/assets/projectimg1.png",
-      title: "Content  management tool",
-      description:
-        "a website dashboard for content management for coaches on the fitness app",
-      github: "https://github.com/emeraldhycient/gofitish-creatores",
-      url: "https://igwezehycient.netlify.app",
-      tools: ["react", "next js", "tailwind css", "laravel", "❤️"],
-    },
-    {
-      image: "/assets/taxiapp.png",
-      title: "Ev station app",
-      description:
-        "Mobile app for displaying locations of ev stations nearest to you and the route to it",
-      github: "https://github.com/emeraldhycient/chargeboost",
-      url: "https://igwezehycient.netlify.app",
-      tools: [
-        "react",
-        "react native",
-        "react native paper",
-        "google maps",
-        "php",
-        "❤️",
-      ],
-    },
+    // {
+    //   image: "/assets/sportapp.jpeg",
+    //   title: "fitness coach app",
+    //   description:
+    //     "Designed to be sleek and intuitive for sport coaches and fitness cautious individuals",
+    //   github: "https://github.com/emeraldhycient/Gofitish",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: [
+    //     "react",
+    //     "react native",
+    //     "react native paper",
+    //     "algora",
+    //     "laravel",
+    //     "❤️",
+    //   ],
+    // },
+    // {
+    //   image: "/assets/projectimg1.png",
+    //   title: "Content  management tool",
+    //   description:
+    //     "a website dashboard for content management for coaches on the fitness app",
+    //   github: "https://github.com/emeraldhycient/gofitish-creatores",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: ["react", "next js", "tailwind css", "laravel", "❤️"],
+    // },
+    // {
+    //   image: "/assets/taxiapp.png",
+    //   title: "Ev station app",
+    //   description:
+    //     "Mobile app for displaying locations of ev stations nearest to you and the route to it",
+    //   github: "https://github.com/emeraldhycient/chargeboost",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: [
+    //     "react",
+    //     "react native",
+    //     "react native paper",
+    //     "google maps",
+    //     "php",
+    //     "❤️",
+    //   ],
+    // },
     {
       image: "/assets/foodorder.png",
       title: "food ordering app",
