@@ -162,31 +162,23 @@ export default function Home() {
     //     "❤️",
     //   ],
     // },
-    // {
-    //   image: "/assets/projectimg1.png",
-    //   title: "Content  management tool",
-    //   description:
-    //     "a website dashboard for content management for coaches on the fitness app",
-    //   github: "https://github.com/emeraldhycient/gofitish-creatores",
-    //   url: "https://igwezehycient.netlify.app",
-    //   tools: ["react", "next js", "tailwind css", "laravel", "❤️"],
-    // },
-    // {
-    //   image: "/assets/taxiapp.png",
-    //   title: "Ev station app",
-    //   description:
-    //     "Mobile app for displaying locations of ev stations nearest to you and the route to it",
-    //   github: "https://github.com/emeraldhycient/chargeboost",
-    //   url: "https://igwezehycient.netlify.app",
-    //   tools: [
-    //     "react",
-    //     "react native",
-    //     "react native paper",
-    //     "google maps",
-    //     "php",
-    //     "❤️",
-    //   ],
-    // },
+
+    {
+      image: "/assets/taxiapp.png",
+      title: "Ev station app",
+      description:
+        "Mobile app for displaying locations of ev stations nearest to you and the route to it",
+      github: "https://github.com/emeraldhycient/chargeboost",
+      url: "https://igwezehycient.netlify.app",
+      tools: [
+        "react",
+        "react native",
+        "react native paper",
+        "google maps",
+        "php",
+        "❤️",
+      ],
+    },
     {
       image: "/assets/foodorder.png",
       title: "food ordering app",
