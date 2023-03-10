@@ -12,7 +12,7 @@ export default function Home() {
       description:
         "soley designed, built and managed the agent part of the agency app for vision savings ng",
       github: "https://github.com/emeraldhycient",
-      url: "https://play.google.com/store/apps/details?id=ng.visionsavings",
+      url: "https://play.google.com/store/apps/details?id=ng.visionpay",
       tools: [
         "react",
         "react native",
@@ -27,7 +27,7 @@ export default function Home() {
       description:
         "Worked in Collaboration with chigozie to pull off the customer agency app for vision savings ng",
       github: "https://github.com/emeraldhycient",
-      url: "https://play.google.com/store/apps/details?id=ng.visionsavings.user",
+      url: "https://play.google.com/store/apps/details?id=ng.visionpay.user",
       tools: [
         "react",
         "react native",
