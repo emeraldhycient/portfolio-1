@@ -8,7 +8,7 @@ export default function Home() {
   const [projects, setprojects] = useState([
     {
       image: "/assets/cloudp2p-b.png",
-      title: "Cloudp2p brand website and web app",
+      title: "Cloudp2p web app and brand website",
       description:
         "Developed and managed the development of brand website for the cloudp2p, while providing support and guidance for the developent of the webapp for Cloudax Holdings Ltd",
       github: "https://github.com/emeraldhycient",
@@ -186,38 +186,38 @@ export default function Home() {
     //   ],
     // },
 
-    {
-      image: "/assets/taxiapp.png",
-      title: "Ev station app",
-      description:
-        "Mobile app for displaying locations of ev stations nearest to you and the route to it",
-      github: "https://github.com/emeraldhycient/chargeboost",
-      url: "https://igwezehycient.netlify.app",
-      tools: [
-        "react",
-        "react native",
-        "react native paper",
-        "google maps",
-        "php",
-        "❤️",
-      ],
-    },
-    {
-      image: "/assets/foodorder.png",
-      title: "food ordering app",
-      description:
-        "search for your favourite meal and order from your favourite store and get it delivered to you",
-      github: "https://github.com/emeraldhycient/dietonApp",
-      url: "https://igwezehycient.netlify.app",
-      tools: [
-        "react",
-        "react native",
-        "react native paper",
-        "google maps",
-        "php",
-        "❤️",
-      ],
-    },
+    // {
+    //   image: "/assets/taxiapp.png",
+    //   title: "Ev station app",
+    //   description:
+    //     "Mobile app for displaying locations of ev stations nearest to you and the route to it",
+    //   github: "https://github.com/emeraldhycient/chargeboost",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: [
+    //     "react",
+    //     "react native",
+    //     "react native paper",
+    //     "google maps",
+    //     "php",
+    //     "❤️",
+    //   ],
+    // },
+    // {
+    //   image: "/assets/foodorder.png",
+    //   title: "food ordering app",
+    //   description:
+    //     "search for your favourite meal and order from your favourite store and get it delivered to you",
+    //   github: "https://github.com/emeraldhycient/dietonApp",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: [
+    //     "react",
+    //     "react native",
+    //     "react native paper",
+    //     "google maps",
+    //     "php",
+    //     "❤️",
+    //   ],
+    // },
   ]);
   return (
     <Layout title="Igweze Hycient">
