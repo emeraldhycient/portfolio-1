@@ -33,6 +33,7 @@ export default function Home() {
       tools: [
         "react",
         "react native",
+        'expo',
         "tailwind css",
         "react-native-paper",
         "Zustand",
@@ -49,6 +50,7 @@ export default function Home() {
       tools: [
         "react",
         "react native",
+        "expo",
         "tailwind css",
         "react-native-paper",
         "❤️",
@@ -65,6 +67,24 @@ export default function Home() {
         "react",
         "react native",
         "tailwind css",
+        "expo",
+        "react-native-paper",
+        "❤️",
+      ],
+    },
+    {
+      image: "/assets/kellispay.webp",
+      title: "kellispay",
+      description:
+        "Worked in Collaboration with two members of the team to pull off the payment infrastructure",
+      github: "https://github.com/emeraldhycient",
+      url: "https://play.google.com/store/apps/details?id=com.ijele.kellispay",
+      tools: [
+        "react",
+        "react native",
+        "expo",
+        "tailwind css",
+        "redux",
         "react-native-paper",
         "❤️",
       ],
