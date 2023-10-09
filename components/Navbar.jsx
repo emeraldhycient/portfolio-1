@@ -13,13 +13,13 @@ function Navbar() {
           className=" w-1/4 justify-between items-center text-base font-semibold hidden md:flex z-100"
         >
           <li>
-            <a href="sass.html">About</a>
+            <a href="https://www.linkedin.com/in/igweze-hycient/">About</a>
           </li>
           <li>
-            <a href="badges.html">PortFolio</a>
+            <a href="">PortFolio</a>
           </li>
           <li>
-            <a href="collapsible.html">Contact</a>
+            <a href="mailto:igwezehycient86@gmail.com">Contact</a>
           </li>
         </ul>
       </div>
