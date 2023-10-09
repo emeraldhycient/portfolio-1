@@ -7,6 +7,22 @@ import Tools from "../components/Tools";
 export default function Home() {
   const [projects, setprojects] = useState([
     {
+      image: "/assets/cloudp2p.png",
+      title: "Cloudp2p",
+      description:
+        "Lead, designed and developed a crypto peer to peer exchange mobile app for Cloudax Holdings Ltd",
+      github: "https://github.com/emeraldhycient",
+      url: "https://play.google.com/store/apps/details?id=io.cloudp2p",
+      tools: [
+        "react",
+        "react native",
+        "tailwind css",
+        "react-native-paper",
+        "Zustand",
+        "❤️",
+      ],
+    },
+    {
       image: "/assets/vision-saving-agent.jpg",
       title: "Vision savings agent app",
       description:
