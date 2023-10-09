@@ -90,6 +90,23 @@ export default function Home() {
       ],
     },
     {
+      image: "/assets/tranxnow.webp",
+      title: "Tranxnow",
+      description:
+        "Worked in Collaboration with two members of the team to pull off the payment infrastructure",
+      github: "https://github.com/emeraldhycient",
+      url: "https://play.google.com/store/search?q=tranxnow&c=apps",
+      tools: [
+        "react",
+        "react native",
+        "expo",
+        "tailwind css",
+        "redux",
+        "react-native-paper",
+        "❤️",
+      ],
+    },
+    {
       image: "/assets/pluralcode.png",
       title: "Pluralcode Academy",
       description:
@@ -174,21 +191,21 @@ export default function Home() {
       url: "https://igwezehycient.netlify.app",
       tools: ["react", "next js", "tailwind css", "❤️"],
     },
-    {
-      image: "/assets/musicplayer.jpeg",
-      title: "Music player app",
-      description:
-        " a music player with all the basic features like audio list , a music player controls for next prev pause seek etc",
-      github: "https://github.com/emeraldhycient/rald-player",
-      url: "https://igwezehycient.netlify.app",
-      tools: [
-        "react",
-        "react native",
-        "react native paper",
-        "expo media library",
-        "❤️",
-      ],
-    },
+    // {
+    //   image: "/assets/musicplayer.jpeg",
+    //   title: "Music player app",
+    //   description:
+    //     " a music player with all the basic features like audio list , a music player controls for next prev pause seek etc",
+    //   github: "https://github.com/emeraldhycient/rald-player",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: [
+    //     "react",
+    //     "react native",
+    //     "react native paper",
+    //     "expo media library",
+    //     "❤️",
+    //   ],
+    // },
     // {
     //   image: "/assets/sportapp.jpeg",
     //   title: "fitness coach app",
