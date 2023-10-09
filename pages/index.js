@@ -7,6 +7,23 @@ import Tools from "../components/Tools";
 export default function Home() {
   const [projects, setprojects] = useState([
     {
+      image: "/assets/cloudp2p-b.png",
+      title: "Cloudp2p brand website and web app",
+      description:
+        "Developed and managed the development of brand website for the cloudp2p, while providing support and guidance for the developent of the webapp for Cloudax Holdings Ltd",
+      github: "https://github.com/emeraldhycient",
+      url: "https://play.google.com/store/apps/details?id=io.cloudp2p",
+      tools: [
+        "react",
+        "Next js",
+        "tailwind css",
+        "Material Ui",
+        "Zustand",
+        "Redux",
+        "❤️",
+      ],
+    },
+    {
       image: "/assets/cloudp2p.png",
       title: "Cloudp2p",
       description:
@@ -28,7 +45,7 @@ export default function Home() {
       description:
         "soley designed, built and managed the agent part of the agency app for vision savings ng",
       github: "https://github.com/emeraldhycient",
-      url: "https://play.google.com/store/apps/details?id=ng.visionpay",
+      url: "https://play.google.com/store/apps/details?id=ng.visionsavings",
       tools: [
         "react",
         "react native",
@@ -43,7 +60,7 @@ export default function Home() {
       description:
         "Worked in Collaboration with chigozie to pull off the customer agency app for vision savings ng",
       github: "https://github.com/emeraldhycient",
-      url: "https://play.google.com/store/apps/details?id=ng.visionpay.user",
+      url: "https://play.google.com/store/apps/details?id=ng.visionsavings.user",
       tools: [
         "react",
         "react native",
