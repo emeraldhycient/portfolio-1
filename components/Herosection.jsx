@@ -15,7 +15,6 @@ function Herosection() {
           <h1 className="text-5xl font-extrabold text-slate-900 tracking-wide leading-tight mt-6 md:mt-0 mb-6 md:mb-0">
             Software Engineer,Mobile app Engineer And Tech Enthusiast.
           </h1>
-
           <Typed
             strings={[
               " Hi, I am Igweze Hycient and i am Technology Agnostic, ",

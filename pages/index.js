@@ -10,7 +10,7 @@ export default function Home() {
       image: "/assets/cloudp2p-b.png",
       title: "Cloudp2p web app and brand website",
       description:
-        "Developed and managed the development of brand website for the cloudp2p, while providing support and guidance for the developent of the webapp for Cloudax Holdings Ltd",
+        "Played a pivotal role in developing and managing the brand website for Cloudp2p, an innovative crypto peer-to-peer exchange with a robust escrow system. This platform facilitates secure cryptocurrency exchanges between parties, simplifying transactions and reducing inherent risks. My contributions underscore the platform's dedication to both user experience and enhanced security, making it a vital player in the crypto trading landscape",
       github: "https://github.com/emeraldhycient",
       url: "https://play.google.com/store/apps/details?id=io.cloudp2p",
       tools: [
