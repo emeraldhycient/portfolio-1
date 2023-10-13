@@ -76,7 +76,7 @@ export default function Home() {
       image: "/assets/kellispay.webp",
       title: "kellispay",
       description:
-        "Worked in Collaboration with two members of the team to pull off the payment infrastructure",
+        "In collaboration with two team members, I played a pivotal role in developing the payment infrastructure for Kellispay, a versatile mobile banking app that enables seamless transactions, bill payments, and airtime purchases. Our collective effort enhances the functionality and performance of Kellispay, ensuring a comprehensive financial solution for users.",
       github: "https://github.com/emeraldhycient",
       url: "https://play.google.com/store/apps/details?id=com.ijele.kellispay",
       tools: [
@@ -93,7 +93,7 @@ export default function Home() {
       image: "/assets/tranxnow.webp",
       title: "Tranxnow",
       description:
-        "Worked in Collaboration with two members of the team to pull off the payment infrastructure",
+        "Collaborating with two dedicated team members, I was instrumental in establishing the payment infrastructure for Tranxnow, a dynamic mobile banking application. Tranxnow offers users the flexibility to conduct transactions, settle bills, and purchase airtime effortlessly. Our combined expertise has contributed to the development of Tranxnow, providing a seamless financial solution that caters to the diverse needs of our users, elevating their banking experience.",
       github: "https://github.com/emeraldhycient",
       url: "https://play.google.com/store/search?q=tranxnow&c=apps",
       tools: [
