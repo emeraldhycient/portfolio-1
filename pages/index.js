@@ -110,7 +110,7 @@ export default function Home() {
       image: "/assets/pluralcode.png",
       title: "Pluralcode Academy",
       description:
-        "builds and maintains pluralcode academy website that converts over 1k student monthly",
+        "As the lead front-end engineer for Pluralcode Academy, I spearheaded the development and ongoing maintenance of our web application. This dynamic platform has been pivotal in transforming the educational landscape, engaging and converting over 10,000 students each month. Our team's commitment to innovation and excellence has empowered Pluralcode Academy to provide a top-tier learning experience that leaves a lasting impact on students.",
       github: "https://github.com/emeraldhycient",
       url: "https://pluralcode.institute/",
       tools: [
@@ -124,7 +124,7 @@ export default function Home() {
       image: "/assets/pluralcode_dashboard.png",
       title: "Pluralcode Academy lms",
       description:
-        "built and maintains pluralcode academy LMS that supports all enrolled students and mentors",
+        "In my capacity as the lead front-end engineer for Pluralcode Academy, I took charge of both the initial development and the continuous maintenance of our Learning Management System. This robust platform plays a critical role in facilitating the educational journey of all our enrolled students and mentors. Leveraging our team's collective expertise, Pluralcode Academy LMS is dedicated to providing a seamless, supportive environment that caters to the diverse needs of our users, creating a transformative learning experience.",
       github: "https://github.com/emeraldhycient",
       url: "https://student.pluralcode.institute/login",
       tools: [
