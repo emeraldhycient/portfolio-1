@@ -12,7 +12,7 @@ export default function Home() {
       description:
         "Played a pivotal role in developing and managing the brand website for Cloudp2p, an innovative crypto peer-to-peer exchange with a robust escrow system. This platform facilitates secure cryptocurrency exchanges between parties, simplifying transactions and reducing inherent risks. My contributions underscore the platform's dedication to both user experience and enhanced security, making it a vital player in the crypto trading landscape",
       github: "https://github.com/emeraldhycient",
-      url: "https://play.google.com/store/apps/details?id=io.cloudp2p",
+      url: "https://cloudp2p.io",
       tools: [
         "react",
         "Next js",
@@ -27,7 +27,7 @@ export default function Home() {
       image: "/assets/cloudp2p.png",
       title: "Cloudp2p",
       description:
-        "Lead, designed and developed a crypto peer to peer exchange mobile app for Cloudax Holdings Ltd",
+        "I took the lead in designing and developing a mobile app for Cloudax Holdings Ltd, offering a seamless crypto peer-to-peer exchange experience. The app serves as a secure escrow system, simplifying cryptocurrency transactions and enhancing user confidence. These contributions reinforce the platform's commitment to user-friendly trading and robust security, further solidifying its presence in the crypto trading domain.",
       github: "https://github.com/emeraldhycient",
       url: "https://play.google.com/store/apps/details?id=io.cloudp2p",
       tools: [
