@@ -154,25 +154,25 @@ export default function Home() {
       ],
     },
 
-    {
-      image: "/assets/myhospital.PNG",
-      title: "Hospital booking app",
-      description:
-        "simple mobile app to book Hospital visit ahead of time,actually app screenshot seen above",
-      github: "https://github.com/emeraldhycient/myhospital",
-      url: "https://appsenjoy.com/Q6fAo",
-      tools: [
-        "react",
-        "react native",
-        "tailwind css",
-        "node js",
-        "express",
-        "react-native-maps",
-        "mongoose",
-        "mongodb",
-        "❤️",
-      ],
-    },
+    // {
+    //   image: "/assets/myhospital.PNG",
+    //   title: "Hospital booking app",
+    //   description:
+    //     "simple mobile app to book Hospital visit ahead of time,actually app screenshot seen above",
+    //   github: "https://github.com/emeraldhycient/myhospital",
+    //   url: "https://appsenjoy.com/Q6fAo",
+    //   tools: [
+    //     "react",
+    //     "react native",
+    //     "tailwind css",
+    //     "node js",
+    //     "express",
+    //     "react-native-maps",
+    //     "mongoose",
+    //     "mongodb",
+    //     "❤️",
+    //   ],
+    // },
     {
       image: "/assets/decor-full.png",
       title: "Interior decoration",
@@ -182,15 +182,15 @@ export default function Home() {
       url: "https://mp-design-3y4464.netlify.app/",
       tools: ["react", "next js", "tailwind css", "laravel", "sanctum", "❤️"],
     },
-    {
-      image: "/assets/portfolioshort.png",
-      title: "Portfolio Website",
-      description:
-        "i made this portfolio in one night, with the intention to use it to showcase my projects ",
-      github: "https://github.com/emeraldhycient/portfolio-1",
-      url: "https://igwezehycient.netlify.app",
-      tools: ["react", "next js", "tailwind css", "❤️"],
-    },
+    // {
+    //   image: "/assets/portfolioshort.png",
+    //   title: "Portfolio Website",
+    //   description:
+    //     "i made this portfolio in one night, with the intention to use it to showcase my projects ",
+    //   github: "https://github.com/emeraldhycient/portfolio-1",
+    //   url: "https://igwezehycient.netlify.app",
+    //   tools: ["react", "next js", "tailwind css", "❤️"],
+    // },
     // {
     //   image: "/assets/musicplayer.jpeg",
     //   title: "Music player app",

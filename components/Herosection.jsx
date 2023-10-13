@@ -13,7 +13,7 @@ function Herosection() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mt-20 md:mt-12 items-center">
         <div className="">
           <h1 className="text-5xl font-extrabold text-slate-900 tracking-wide leading-tight mt-6 md:mt-0 mb-6 md:mb-0">
-            Software Engineer,Mobile app Engineer And Tech Enthusiast.
+            Software,Mobile app Engineer And Tech Enthusiast.
           </h1>
           <Typed
             strings={[
