@@ -42,9 +42,9 @@ export default function Home() {
     },
     {
       image: "/assets/vision-saving-agent.jpg",
-      title: "Vision savings agent app",
+      title: "VisionPay agent app",
       description:
-        "soley designed, built and managed the agent part of the agency app for vision savings ng",
+        "The design, construction, and oversight of the agent module within the VisionPay app was under my purview. As the sole developer, I crafted a user-friendly, efficient tool tailored to the needs of VisionPay agents, streamlining their operational processes and enhancing the overall user experience for both agents and clients.",
       github: "https://github.com/emeraldhycient",
       url: "https://play.google.com/store/apps/details?id=ng.visionsavings",
       tools: [
@@ -58,9 +58,9 @@ export default function Home() {
     },
     {
       image: "/assets/vision_savings.jpg",
-      title: "Vision savings customer app",
+      title: "Visionpay customer app",
       description:
-        "Worked in Collaboration with chigozie to pull off the customer agency app for vision savings ng",
+        "Collaborating closely with two team members, I successfully contributed to the development of the VisionPay customer app, ensuring its functionality and performance meet the highest standards. This collaborative effort underscores VisionPay's dedication to delivering a top-notch customer experience, enhancing their presence in the financial services sector.",
       github: "https://github.com/emeraldhycient",
       url: "https://play.google.com/store/apps/details?id=ng.visionsavings.user",
       tools: [
